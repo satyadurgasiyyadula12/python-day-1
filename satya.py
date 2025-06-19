@@ -155,5 +155,3 @@ print(hello)
 print(type(hello))
 
 
-#gitup push the code description,data types,new click, comment complete my data types#
-
